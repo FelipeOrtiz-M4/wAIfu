@@ -1,0 +1,7 @@
+SpeechRecognition
+pyaudio
+wave
+openai
+typer
+rich
+elevenlabs
