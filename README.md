@@ -26,10 +26,6 @@ Las API-KEYs pueden ser encontradas en los ajustes de sus perfiles de los respec
 "Ubicación de Python en su equipo\python.exe" "Ubicación donde copiaron el repositorio\respuesta.py"
 pause
 ```
-# Demostración
-Video de documentación y resumen del proyecto (NO ES UN TUTORIAL)
-
-[![Cómo Hice UNA WAIFU Con IA](https://img.youtube.com/vi/leK5dPTb8t8/0.jpg)](https://www.youtube.com/watch?v=leK5dPTb8t8 "Cómo Hice UNA WAIFU Con IA")
 
 # Detalles
 La voz pueden cambiarla a la de su elección modificando la siguiente línea de texto dentro del archivo `respuesta.py` (Line 113)
